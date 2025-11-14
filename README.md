@@ -1,4 +1,4 @@
-m<!--　## Hi there 👋　-->
+<!--　## Hi there 👋　-->
 
 <!--
 **haruka208/haruka208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
