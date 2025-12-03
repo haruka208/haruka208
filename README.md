@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 <!-- feeds:end -->
 
 <!-- GitHub統計 -->
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruka208&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haruka208&show_icons=true&theme=transparent)
-
+-->
 
 <!-- 　## 🏆 GitHub Trophy -->
 
